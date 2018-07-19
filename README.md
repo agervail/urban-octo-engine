@@ -5,3 +5,4 @@ Un README ça se maintient à jour, coûte que coûte !
 
 blablabla
 
+on avait dit qu'on arretait les bugs
